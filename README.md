@@ -5,8 +5,9 @@
 
 # About Me
 
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Svelte Framework
+- 🌱 I’m currently learning Nest js
 - 💞️ I’m looking to collaborate on expert developers
 - 📫 You can reach me at mursyidanluthfan@gmail.com
 
