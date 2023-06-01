@@ -1,4 +1,7 @@
-# Hi, My Name is Luthfan Mursyidan's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 align="center">Hi 👋, I'm Luthfan Mursyidan</h1>
+<h3 align="center">Software Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luthfanm&label=Profile%20views&color=0e75b6&style=flat" alt="luthfanm" /> </p>
 
 # About Me
 
